@@ -1,0 +1,160 @@
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem\bin\Debug\Konzole.InventorySystem.dll.config
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem\bin\Debug\Konzole.InventorySystem.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem\bin\Debug\Konzole.InventorySystem.pdb
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem\bin\Debug\EntityFramework.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem\bin\Debug\EntityFramework.xml
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem\obj\Debug\Konzole.InventorySystem.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem\obj\Debug\Konzole.InventorySystem.pdb
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem\obj\Debug\Konzole.InventorySystem.Migrations.start.resources
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem\obj\Debug\Konzole.InventorySystem.csproj.GenerateResource.Cache
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\Konzole.InventorySystem.dll.config
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\Konzole.InventorySystem.dll
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\Konzole.InventorySystem.pdb
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\EntityFramework.dll
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\EntityFramework.xml
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem\obj\Debug\Konzole.InventorySystem.Migrations.start.resources
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem\obj\Debug\Konzole.InventorySystem.csproj.GenerateResource.Cache
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem\obj\Debug\Konzole.InventorySystem.dll
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem\obj\Debug\Konzole.InventorySystem.pdb
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\Konzole.InventorySystem.dll.config
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\Konzole.InventorySystem.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\Konzole.InventorySystem.pdb
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\EntityFramework.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\EntityFramework.xml
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem\obj\Debug\Konzole.InventorySystem.csprojResolveAssemblyReference.cache
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem\obj\Debug\Konzole.InventorySystem.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem\obj\Debug\Konzole.InventorySystem.pdb
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\Konzole.InventorySystem.dll.config
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\Konzole.InventorySystem.dll
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\Konzole.InventorySystem.pdb
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\EntityFramework.dll
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\EntityFramework.xml
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem\obj\Debug\Konzole.InventorySystem.csprojResolveAssemblyReference.cache
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem\obj\Debug\Konzole.InventorySystem.dll
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem\obj\Debug\Konzole.InventorySystem.pdb
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem\obj\Debug\Konzole.InventorySystem.Migrations.Beginning.resources
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem\obj\Debug\Konzole.InventorySystem.csproj.GenerateResource.Cache
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\Konzole.InventorySystem.dll.config
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\Konzole.InventorySystem.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\Konzole.InventorySystem.pdb
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\EntityFramework.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\EntityFramework.SqlServer.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\System.Web.Mvc.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\System.Web.Razor.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\System.Web.WebPages.Razor.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\System.Web.WebPages.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\EntityFramework.xml
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\EntityFramework.SqlServer.xml
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\System.Web.Mvc.xml
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\System.Web.Razor.xml
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\System.Web.WebPages.Razor.xml
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\System.Web.WebPages.xml
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\Microsoft.Web.Infrastructure.xml
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem\obj\Debug\Konzole.InventorySystem.Migrations.Beginning.resources
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem\obj\Debug\Konzole.InventorySystem.Migrations.SupplierChanges.resources
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem\obj\Debug\Konzole.InventorySystem.csproj.GenerateResource.Cache
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem\obj\Debug\Konzole.InventorySystem.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem\obj\Debug\Konzole.InventorySystem.pdb
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem\obj\Debug\Konzole.InventorySystem.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem\obj\Debug\Konzole.InventorySystem.pdb
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\Konzole.InventorySystem.dll.config
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\Konzole.InventorySystem.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\Konzole.InventorySystem.pdb
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\EntityFramework.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\EntityFramework.SqlServer.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\System.Web.Mvc.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\System.Web.Razor.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\System.Web.WebPages.Razor.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\System.Web.WebPages.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\EntityFramework.xml
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\EntityFramework.SqlServer.xml
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\System.Web.Mvc.xml
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\System.Web.Razor.xml
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\System.Web.WebPages.Razor.xml
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\System.Web.WebPages.xml
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\Microsoft.Web.Infrastructure.xml
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem\obj\Debug\Konzole.InventorySystem.Migrations.initial.resources
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem\obj\Debug\Konzole.InventorySystem.csproj.GenerateResource.Cache
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem\obj\Debug\Konzole.InventorySystem.csprojResolveAssemblyReference.cache
+C:\MMT\_Personal\angelhack\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\Konzole.InventorySystem.dll.config
+C:\MMT\_Personal\angelhack\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\Konzole.InventorySystem.dll
+C:\MMT\_Personal\angelhack\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\Konzole.InventorySystem.pdb
+C:\MMT\_Personal\angelhack\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\EntityFramework.dll
+C:\MMT\_Personal\angelhack\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\MMT\_Personal\angelhack\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\MMT\_Personal\angelhack\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\MMT\_Personal\angelhack\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\EntityFramework.xml
+C:\MMT\_Personal\angelhack\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\MMT\_Personal\angelhack\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\MMT\_Personal\angelhack\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\MMT\_Personal\angelhack\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\System.Web.Mvc.xml
+C:\MMT\_Personal\angelhack\Konzole.EmploymentSystem\Konzole.InventorySystem\obj\Debug\Konzole.InventorySystem.csprojResolveAssemblyReference.cache
+C:\MMT\_Personal\angelhack\Konzole.EmploymentSystem\Konzole.InventorySystem\obj\Debug\Konzole.InventorySystem.Migrations.initial.resources
+C:\MMT\_Personal\angelhack\Konzole.EmploymentSystem\Konzole.InventorySystem\obj\Debug\Konzole.InventorySystem.csproj.GenerateResource.Cache
+C:\MMT\_Personal\angelhack\Konzole.EmploymentSystem\Konzole.InventorySystem\obj\Debug\Konzole.InventorySystem.dll
+C:\MMT\_Personal\angelhack\Konzole.EmploymentSystem\Konzole.InventorySystem\obj\Debug\Konzole.InventorySystem.pdb
+C:\MMT\_Personal\MDM Hackathon\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\Konzole.InventorySystem.dll.config
+C:\MMT\_Personal\MDM Hackathon\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\Konzole.InventorySystem.dll
+C:\MMT\_Personal\MDM Hackathon\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\Konzole.InventorySystem.pdb
+C:\MMT\_Personal\MDM Hackathon\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\EntityFramework.dll
+C:\MMT\_Personal\MDM Hackathon\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\MMT\_Personal\MDM Hackathon\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\MMT\_Personal\MDM Hackathon\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\MMT\_Personal\MDM Hackathon\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\System.Web.Razor.dll
+C:\MMT\_Personal\MDM Hackathon\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\System.Web.WebPages.Razor.dll
+C:\MMT\_Personal\MDM Hackathon\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\System.Web.WebPages.dll
+C:\MMT\_Personal\MDM Hackathon\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\MMT\_Personal\MDM Hackathon\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\MMT\_Personal\MDM Hackathon\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\EntityFramework.xml
+C:\MMT\_Personal\MDM Hackathon\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\MMT\_Personal\MDM Hackathon\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\MMT\_Personal\MDM Hackathon\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\MMT\_Personal\MDM Hackathon\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\System.Web.Mvc.xml
+C:\MMT\_Personal\MDM Hackathon\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\System.Web.Razor.xml
+C:\MMT\_Personal\MDM Hackathon\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\System.Web.WebPages.Razor.xml
+C:\MMT\_Personal\MDM Hackathon\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\System.Web.WebPages.xml
+C:\MMT\_Personal\MDM Hackathon\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\MMT\_Personal\MDM Hackathon\Konzole.EmploymentSystem\Konzole.InventorySystem\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\MMT\_Personal\MDM Hackathon\Konzole.EmploymentSystem\Konzole.InventorySystem\obj\Debug\Konzole.InventorySystem.csprojResolveAssemblyReference.cache
+C:\MMT\_Personal\MDM Hackathon\Konzole.EmploymentSystem\Konzole.InventorySystem\obj\Debug\Konzole.InventorySystem.Migrations.initial.resources
+C:\MMT\_Personal\MDM Hackathon\Konzole.EmploymentSystem\Konzole.InventorySystem\obj\Debug\Konzole.InventorySystem.csproj.GenerateResource.Cache
+C:\MMT\_Personal\MDM Hackathon\Konzole.EmploymentSystem\Konzole.InventorySystem\obj\Debug\Konzole.InventorySystem.dll
+C:\MMT\_Personal\MDM Hackathon\Konzole.EmploymentSystem\Konzole.InventorySystem\obj\Debug\Konzole.InventorySystem.pdb

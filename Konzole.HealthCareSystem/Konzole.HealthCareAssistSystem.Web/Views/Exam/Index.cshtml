@@ -1,0 +1,95 @@
+﻿@model Konzole.HealthCareAssistSystem.Web.Models.ExamViewModel
+@{
+
+    Layout = null;
+    ViewBag.Title = "Log in";
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link runat="server" rel="shortcut icon" href="~/Content/images/spi_global_logo.ico" type="image/x-icon" />
+    <link runat="server" rel="icon" href="~/Content/images/spi_global_logo.ico" type="image/ico" />
+    <title>Konzole</title>
+
+
+    @Styles.Render("~/Content/bootstrap")
+    @Styles.Render("~/Content/metisMenu")
+    @Styles.Render("~/Content/timeline")
+    @Styles.Render("~/Content/startmin")
+    @Styles.Render("~/Content/morris")
+    @Styles.Render("~/Content/css/font-awesome.min.css")
+
+
+
+
+</head>
+<body>
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="panel panel-default">
+
+                <div class="panel-heading" style="text-align:center;">
+                    <label id="lblTime" style="font-size:48px;">00:00:00</label>
+                </div>
+
+                <div class="panel-body">
+                    @Html.TextBoxFor(model => model.TimeStart, "{0:MM/dd/yyyy HH:mm:ss}", htmlAttributes: new { @type = "hidden" })
+                    @Html.TextBoxFor(model => model.TimeEnd, "{0:MM/dd/yyyy HH:mm:ss}", htmlAttributes: new { @type = "hidden" })
+                    @foreach (var quest in Model.Question)
+                    {
+                        <div>
+                            @Html.LabelFor(model => quest.Questions, quest.Questions, new { htmlAttributes = new { @class = "form-control" } })
+
+                            @foreach (var choice in Model.Choices.Where(x => x.Sequence == quest.Id))
+                            {
+                                <div>
+
+                                    @Html.RadioButton(choice.Sequence.ToString(), choice.Sequence)
+                                    @*@Html.RadioButtonFor(Model=> choice.Sequence, choice.Sequence, new { id = choice.Sequence })*@
+                                    @Html.LabelFor(model => choice.Sequence, choice.Choices)
+                                </div>
+
+                            }
+                        </div>
+                    }
+
+                    <div class="modal-footer left">
+                        <button type="submit"  id="btnSubmit" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">
+                            Next
+                        </button>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Modal -->
+        <div class="modal fade" id="myModal" role="dialog">
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <h4 class="modal-title">Information</h4>
+                    </div>
+                    <div class="modal-body">
+                        <p>You have successfully completed our IQ Exam. You will be redirect to our HR BOT again for further evaluation...</p>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal" onclick="window.location.href='/Home/Index'">Close</button>
+                    </div>
+                </div>
+            </div>
+            @Scripts.Render("~/Content/jquery")
+            @Scripts.Render("~/Content/js")
+            @Scripts.Render("~/Content/scripts/custom/exam.js")
+         </div>
+</body>
+</html>

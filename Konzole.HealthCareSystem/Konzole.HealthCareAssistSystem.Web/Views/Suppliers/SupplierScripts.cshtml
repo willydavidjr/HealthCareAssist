@@ -1,0 +1,148 @@
+﻿@model Konzole.HealthCareAssistSystem.Supplier
+@{
+ 
+}
+<link href="@Url.Content("~/Content/css/default.css")" rel="Stylesheet" type="text/css" />
+<link href="@Url.Content("~/Content/css/jquery-ui.min.css")" rel="Stylesheet" type="text/css" />
+
+<script src="~/Content/Scripts/modernizr.custom.js" type="text/javascript"></script>
+<script type="text/javascript" src="~/Content/Scripts/classie.js"></script>
+<style type="text/css">
+.a-nav-open
+{
+margin-left: 210px;
+    position: fixed;
+    top: 40%;
+    BORDER: none !important;
+    @*-ms-transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    background-color:#3D7440 !important;*@
+    padding: 0px 0px 3px 3px !important;
+}
+.i-nav-open
+{
+    padding: 20px 18px 20px 30px;
+    border-radius: 25em;
+    color: #DEDEDE;
+    webkit-transform: rotate(45deg);
+    -webkit-transform: rotate(-50deg);
+}
+
+    .divResume
+    {
+        width: 100%; /*border: 1px solid silver;*/
+
+    }
+
+    .divResumeSubmit
+    {
+        width: 100%; /*border: 1px solid silver;*/
+    }
+
+    .divResumeNavigation
+    {
+        float: left;
+        min-height: 600px;
+        margin-top: 6px;
+        width: 75.33333333%;
+        position: fixed;
+        background-color: blue;
+    }
+
+    .divResumeSection
+    {
+        width: 73%;
+        float: right;
+        min-height: 500px;
+        padding: 5px 5px 30px 5px;
+        margin-left: 10px;
+    }
+
+    .hidden
+    {
+        visibility: hidden;
+    }
+
+    .division
+    {
+        /*border-bottom: 1px solid silver;*/
+        padding: 5px 20px 5px 20px;
+    }
+
+    .header
+    {
+        /*border-top: 1px solid #ddd;*/
+        border-top: 1px solid rgb(152,207,22);
+        padding-top: 6px;
+        font-weight: bold;
+    }
+
+    .border-bottom
+    {
+        /*border-bottom: 1px solid #ddd;*/
+        border-bottom: 1px solid rgb(152,207,22);
+        padding-bottom: 6px;
+    }
+
+    .division-container
+    {
+        padding: 5px 20px 5px 20px;
+    }
+
+    /*.division:first-child
+    {
+        border-top: 1px solid silver;
+    }*/
+
+    .align-bottom
+    {
+        /*display:inline-block;*/
+        vertical-align: bottom; /*float:none;*/
+    }
+
+    .resume-nav-fixed
+    {
+        @*position: fixed;*@
+        top: 50px;
+        @*width: 21%;*@
+    }
+    .resume-selected-nav
+    {
+        text-decoration: none;
+        background-color: #eee;
+    }
+
+    .group-header{
+        font-weight:bold;
+    }
+
+    .ui-autocomplete-loading
+        {
+            background: white url('@Url.Content("~/Content/images/ui-anim_basic_16x16.gif")') right center no-repeat;
+            /*background-color: Silver;*/
+            border: 1px solid Gray;
+        }
+
+        .ui-autocomplete
+        {
+            max-height: 200px;
+            overflow-y: auto; /* prevent horizontal scrollbar */
+            overflow-x: hidden;
+            font-family: Calibri, Cambria, Georgia, Times New Roman;
+            font-size: 14px;
+        }
+
+        * html .ui-autocomplete
+        {
+            height: 100px;
+        }
+
+        .margin-top{
+            margin-top:5px;
+        }
+</style>
+
+
+   

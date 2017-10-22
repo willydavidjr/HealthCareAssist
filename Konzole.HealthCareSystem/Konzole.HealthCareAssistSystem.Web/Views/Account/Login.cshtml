@@ -1,0 +1,140 @@
+﻿@{
+
+    Layout = null;
+    ViewBag.Title = "Log in";
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link runat="server" rel="shortcut icon" href="~/Content/images/spi_global_logo.ico" type="image/x-icon" />
+    <link runat="server" rel="icon" href="~/Content/images/spi_global_logo.ico" type="image/ico" />
+    <title>Konzole</title>
+
+
+    @Styles.Render("~/Content/bootstrap")
+    @Styles.Render("~/Content/metisMenu")
+    @Styles.Render("~/Content/timeline")
+    @Styles.Render("~/Content/startmin")
+    @Styles.Render("~/Content/morris")
+    @Styles.Render("~/Content/css/font-awesome.min.css")
+
+    <style type="text/css">
+        /* enable absolute positioning */
+        .inner-addon {
+            position: relative;
+        }
+
+            /* style icon */
+            .inner-addon .glyphicon {
+                position: absolute;
+                padding: 9px 10px 10px 10px;
+                pointer-events: none;
+            }
+
+        /* align icon */
+        .left-addon .glyphicon {
+            left: 0px;
+        }
+
+        .right-addon .glyphicon {
+            right: 0px;
+        }
+
+        /* add padding  */
+        .left-addon input {
+            padding-left: 30px;
+        }
+
+        .right-addon input {
+            padding-right: 30px;
+        }
+
+        .imgcontainer {
+            text-align: center;
+            margin: 24px 0 12px 0;
+        }
+
+        img.logo {
+            border-radius: 25px;
+        }
+
+        img.avatar {
+            width: 30%;
+            border-radius: 50%;
+        }
+
+        .login-shadow {
+            -webkit-box-shadow: 1px -4px 23px 13px rgba(136,136,136,0.34);
+            -moz-box-shadow: 1px -4px 23px 13px rgba(136,136,136,0.34);
+            box-shadow: 1px -4px 23px 13px rgba(136,136,136,0.34);
+            border-radius: 25px;
+        }
+    </style>
+
+    <style type="text/css">
+        body {
+            background-image: url('../../Content/images/header-bg.jpg');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-position: center;
+            background-size: cover;
+        }
+    </style>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <script type="text/javascript">
+            Model.MyScriptToRun = "window.alert(' this is from action');"
+    </script>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 col-md-offset-4">
+                <div class="login-panel panel panel-default login-shadow" style="margin-top:150px;">
+
+                    <div class="panel-heading">
+                        <h3 class="panel-title" style="text-align:center;"><strong>Konzole HealthCare Assistance</strong></h3>
+                    </div>
+                    <div class="imgcontainer">
+                        <img src="~/Content/images/img_avatar2.png" alt="Avatar" class="avatar" />
+                    </div>
+
+
+                    <div class="panel-body">
+                        @using (Html.BeginForm("LogIn", "Account", new { ReturnUrl = Request.QueryString["ReturnUrl"] }, FormMethod.Post, new { @role = "form" }))
+                        {
+                            @Html.AntiForgeryToken()
+                            <small style="color:#f00;">
+                                @Html.ValidationSummary(true)
+                            </small>
+                            <fieldset>
+                                <div>Welcome Please click here to talk for one our Staff</div>
+
+                                <!-- Change this to a button or input when using this as a form -->
+                                <button type="submit" class="btn btn-md btn-primary center-block">Click me!</button>
+                            </fieldset>
+                        }
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    @Scripts.Render("~/Content/jquery")
+    @Scripts.Render("~/Content/js")
+    @Scripts.Render("~/Content/scripts/custom/login.js")
+</body>
+</html>

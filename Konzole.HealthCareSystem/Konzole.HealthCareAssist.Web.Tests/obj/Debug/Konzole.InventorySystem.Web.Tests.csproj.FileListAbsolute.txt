@@ -1,0 +1,415 @@
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\csc.exe
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\vbc.exe
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\Konzole.InventorySystem.Web.Tests.dll.config
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\Konzole.InventorySystem.Web.Tests.dll
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\Konzole.InventorySystem.Web.Tests.pdb
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\Konzole.InventorySystem.Web.dll
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Helpers.dll
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Mvc.dll
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Razor.dll
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.WebPages.dll
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.dll
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Optimization.dll
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.Security.dll
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\Owin.dll
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\EntityFramework.dll
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\Konzole.InventorySystem.Web.pdb
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Helpers.xml
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Mvc.xml
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Razor.xml
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.WebPages.xml
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.xml
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Optimization.xml
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.Security.xml
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\EntityFramework.xml
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\obj\Debug\Konzole.InventorySystem.Web.Tests.csprojResolveAssemblyReference.cache
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\obj\Debug\Konzole.InventorySystem.Web.Tests.dll
+c:\users\mark hil\documents\visual studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\obj\Debug\Konzole.InventorySystem.Web.Tests.pdb
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\Konzole.InventorySystem.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\Konzole.InventorySystem.pdb
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\Unity.WebApi.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem.Web\Konzole.InventorySystem.Web.Tests\bin\Debug\Unity.Mvc4.dll
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Konzole.InventorySystem.Web.Tests.dll.config
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Konzole.InventorySystem.Web.Tests.dll
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Konzole.InventorySystem.Web.Tests.pdb
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Konzole.InventorySystem.Web.dll
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Owin.dll
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Konzole.InventorySystem.dll
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\EntityFramework.dll
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Konzole.InventorySystem.Web.pdb
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Konzole.InventorySystem.pdb
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\EntityFramework.xml
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\obj\Debug\Konzole.InventorySystem.Web.Tests.csprojResolveAssemblyReference.cache
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\obj\Debug\Konzole.InventorySystem.Web.Tests.dll
+C:\Users\MarkSSayson.FPTI\Downloads\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\obj\Debug\Konzole.InventorySystem.Web.Tests.pdb
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Konzole.InventorySystem.Web.Tests.dll.config
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Konzole.InventorySystem.Web.Tests.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Konzole.InventorySystem.Web.Tests.pdb
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Konzole.InventorySystem.Web.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Owin.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Konzole.InventorySystem.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Konzole.InventorySystem.Web.pdb
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Konzole.InventorySystem.pdb
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\obj\Debug\Konzole.InventorySystem.Web.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\obj\Debug\Konzole.InventorySystem.Web.Tests.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\obj\Debug\Konzole.InventorySystem.Web.Tests.pdb
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mark Hil\Documents\Visual Studio 2015\Projects\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Konzole.InventorySystem.Web.Tests.dll.config
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Konzole.InventorySystem.Web.Tests.dll
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Konzole.InventorySystem.Web.Tests.pdb
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Konzole.InventorySystem.Web.dll
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Owin.dll
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Konzole.InventorySystem.dll
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Konzole.InventorySystem.Web.pdb
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Konzole.InventorySystem.pdb
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\obj\Debug\Konzole.InventorySystem.Web.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\obj\Debug\Konzole.InventorySystem.Web.Tests.dll
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\obj\Debug\Konzole.InventorySystem.Web.Tests.pdb
+C:\Users\Mark Hil\Desktop\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Unity.Mvc5.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\csc.exe
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\vbc.exe
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Konzole.InventorySystem.Web.Tests.dll.config
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Konzole.InventorySystem.Web.Tests.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Konzole.InventorySystem.Web.Tests.pdb
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\EntityFramework.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\EntityFramework.SqlServer.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Konzole.InventorySystem.Web.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Helpers.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Mvc.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Razor.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.WebPages.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Optimization.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.Security.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Owin.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Http.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Konzole.InventorySystem.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Http.WebHost.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Unity.Mvc5.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Konzole.InventorySystem.Web.pdb
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\EntityFramework.xml
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\EntityFramework.SqlServer.xml
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Helpers.xml
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Mvc.xml
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Razor.xml
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.WebPages.xml
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.xml
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Optimization.xml
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.Security.xml
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Http.xml
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Konzole.InventorySystem.pdb
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Http.WebHost.xml
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\obj\Debug\Konzole.InventorySystem.Web.Tests.csprojResolveAssemblyReference.cache
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\obj\Debug\Konzole.InventorySystem.Web.Tests.dll
+E:\_WORKING FILES\FREELANCE\Konzole.InventorySystem\Konzole.InventorySystem.Web.Tests\obj\Debug\Konzole.InventorySystem.Web.Tests.pdb
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\csc.exe
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\vbc.exe
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Konzole.InventorySystem.Web.Tests.dll.config
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Konzole.InventorySystem.Web.Tests.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Konzole.InventorySystem.Web.Tests.pdb
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\EntityFramework.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\EntityFramework.SqlServer.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Konzole.InventorySystem.Web.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Helpers.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Mvc.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Razor.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.WebPages.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Optimization.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.Security.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Owin.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Http.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Http.WebHost.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Unity.Mvc5.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Konzole.InventorySystem.Web.pdb
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\EntityFramework.xml
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\EntityFramework.SqlServer.xml
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Helpers.xml
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Mvc.xml
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Razor.xml
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.WebPages.xml
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.xml
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Optimization.xml
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.Security.xml
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Http.xml
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Web.Http.WebHost.xml
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\obj\Debug\Konzole.InventorySystem.Web.Tests.csprojResolveAssemblyReference.cache
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\obj\Debug\Konzole.InventorySystem.Web.Tests.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\obj\Debug\Konzole.InventorySystem.Web.Tests.pdb
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Konzole.InventorySystem.dll
+E:\_WORKING FILES\FREELANCE\Konzole.EmploymentSystem\Konzole.InventorySystem.Web.Tests\bin\Debug\Konzole.InventorySystem.pdb

@@ -1,0 +1,140 @@
+﻿@model Konzole.HealthCareAssistSystem.Supplier
+
+<style type="text/css">
+    a#showLeftPush.a-nav-open {
+        background: rgba(255, 255, 255, 0);
+    }
+
+    .arrow-right {
+        /* width: 0; */
+        height: 0;
+        border-top: 30px solid transparent;
+        border-bottom: 30px solid transparent;
+        border-left: 30px solid green;
+        border-left: 30px solid #82c556;
+        margin-left: 26px;
+    }
+
+
+    .arrow-left {
+        /* width: 0; */
+        height: 0;
+        border-top: 30px solid transparent;
+        border-bottom: 30px solid transparent;
+        border-left: 30px solid #82c556;
+        margin-left: 26px;
+    }
+
+    .dv-rotate {
+        background-color: #82c556;
+        color: white;
+        -ms-transform: rotate(270deg);
+        -webkit-transform: rotate(270deg);
+        transform: rotate(270deg);
+        margin-left: 9.4px;
+        padding: 7px;
+    }
+
+    .btn-primary1:hover, .btn-primary1:focus, .btn-primary2:hover, .btn-primary2:focus {
+        background-color: #1c9a48 !important;
+        background-position: 0 -15px;
+    }
+
+    .btn-primary1 {
+        padding: 5px !important;
+        width: 100px;
+        float: right;
+        border: 2px solid #ffffff !important;
+        color: white !important;
+    }
+
+    .btn-primary2 {
+        padding: 3px 0px !important;
+        width: 80px;
+        border: 2px solid #ffffff !important;
+        color: white !important;
+        font-size: small !important;
+    }
+</style>
+<div class="nav-close">
+    <nav class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-left" id="cbp-spmenu-s1">
+        <table style="width: 100%; background-color: #3d7440;">
+            <tr>
+                <td>
+                    <h3>
+                        My Supplier
+                    </h3>
+                </td>
+                <td>
+                    <div id="objForSaveOnly">
+                        <a onclick="mtdExtractResume()" class="btn btn-primary btn-primary2">
+                            <i class="fa fa-inbox"
+                               style="color: white;"></i>&nbsp;EXTRACT
+                        </a>
+                    </div>
+                </td>
+            </tr>
+        </table>
+        <a class="lnkResumeLeft lnkResumeNavigator" href="#">
+            <span class="resume-sprite pd-icon"></span>Personal Details
+            <g>(Required)</g>
+        </a><a class="lnkResumeLeft lnkResumeNavigator" href="#">
+            <span class="resume-sprite add-icon"></span>Address
+            <g>(Required)</g>
+        </a><a class="lnkResumeLeft lnkResumeNavigator" href="#">
+            <span class="resume-sprite fmd-icon"></span>Family Members / Dependents
+        </a>
+        
+        <a id="showLeftPush" class="a-nav-open">
+            <div class="dv-rotate">
+                <i class="fa fa-bars" style="color: white;"></i>MENU
+            </div>
+        </a>
+    </nav>
+   
+</div>
+
+<div class="left-panel col-md-4 nav-wide">
+    <div class="col-md-12 no-gutter">
+        <div id="my-resume">
+            <table style="width: 100%">
+                <tr>
+                    <td>
+                        <p>
+                            My Supplier
+                        </p>
+                    </td>
+                    <td>
+                        <div id="objForSaveOnly">
+                            <a onclick="mtdExtractResume()" class="btn btn-primary btn-primary1">
+                                <i class="fa fa-inbox"
+                                   style="color: white;"></i>&nbsp;EXTRACT
+                            </a>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <a id="lnkPersonalDetails" class="lnkResumeNavigator" href="#">
+            <span class="resume-sprite pd-icon"></span>Supplier Details
+
+        </a><a id="lnkAddess" class="lnkResumeNavigator" href="#">
+            <span class="resume-sprite add-icon"></span>Supplier Contacts
+     
+        </a><a id="lnkDependents" class="lnkResumeNavigator" href="#">
+            <span class="resume-sprite fmd-icon"></span>Supplier Purchase Order
+        </a>
+        <a id="lnkEmployedRelatives" class="lnkResumeNavigator" href="#">
+            <span class="resume-sprite re-icon"></span>Supplier Payment
+        </a><a class="lnkResumeNavigator" href="#">
+            <span class="resume-sprite eb-icon"></span>Supplier Returns
+           
+      
+    </div>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+       
+    });
+</script>

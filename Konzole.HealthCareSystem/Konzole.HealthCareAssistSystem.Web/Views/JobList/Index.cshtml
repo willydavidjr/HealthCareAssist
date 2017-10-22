@@ -1,0 +1,37 @@
+﻿@model Konzole.HealthCareAssistSystem.Web.Models.JobListModel
+@{
+    ViewBag.Title = "Home Page";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div id="page-wrapper">
+
+    <!-- /.row -->
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="panel panel-default">
+                <!-- /.panel-heading -->
+                <div class="panel-body">
+                    <div class="what-we-do container">
+                        <div class="row">
+
+                            @foreach (var Job in Model.JobList)
+                            {
+
+                                <div class="service span3">
+                                    <div class="icon-awesome">
+                                        <i class="icon-eye-open"></i>
+                                    </div>
+                                    <h4>@Job.JobName</h4>
+                                    <p>@Job.JobShortDescription</p>
+                                    <a href=@Url.Action("JobListDetails", "JobList", new { id = @Job.Id })>Read more</a>
+                                </div>
+                            }
+
+                           
+                        </div>
+                    </div>
+                </div>
+                </div>
+            </div>
+        </div>
+</div>

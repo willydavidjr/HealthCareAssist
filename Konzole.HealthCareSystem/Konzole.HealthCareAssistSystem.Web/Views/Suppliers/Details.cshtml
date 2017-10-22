@@ -1,0 +1,295 @@
+﻿@model Konzole.HealthCareAssistSystem.Supplier
+
+@{
+    ViewBag.Title = "View Supplier Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+
+
+@{
+    <style type="text/css">
+        @@media(min-width: 992px) {
+            .nav-close {
+                display: none;
+            }
+        }
+
+        @@media(max-width: 991px) {
+            .nav-wide {
+                display: none;
+            }
+
+            .main-wide {
+                width: 100%;
+            }
+        }
+
+        .sReq {
+            color: #DA2727;
+            font-size: medium;
+        }
+
+        .resume-no-margin-top {
+            margin: 0px !important;
+            clear: both;
+        }
+
+        .resume-no-margin {
+            padding: 1px;
+            margin: 0px !important;
+            font-size: 12px;
+        }
+
+        i {
+            color: #888484;
+        }
+
+        .nav-span {
+            position: absolute;
+            margin-top: -5px;
+        }
+
+        .parentDiv {
+            @* box-shadow: 0px 10px 30px 10px rgba(235,228,235,1);
+            border-radius: 5px;
+            *@;
+        }
+
+        .nav-stacked > li {
+            box-shadow: 0px 10px 30px 10px rgba(235,228,235,0.18);
+            border-radius: 5px;
+        }
+
+        g {
+            color: red;
+            font-size: smaller;
+        }
+
+        .resume-stack-submit {
+            position: fixed;
+            bottom: -7px;
+            background-color: rgb(130, 197, 86);
+            z-index: 1;
+            padding: 10px;
+            text-align: right;
+            right: 0px;
+            @* position: fixed;
+            bottom: -7px;
+            background-color: rgb(255, 255, 255);
+            /* width: 54%; */
+            border-radius: 0.5em;
+            z-index: 1;
+            padding: 10px;
+            text-align: right;
+            background: linear-gradient(to right, rgba(0, 0, 0, 0), #E6E6E6);
+            right: 50px;
+            /* padding-top: 50px; */
+            padding: 20px 10px 20px 50px;
+            width: 50%;
+            position: fixed;
+            bottom: 10px;
+            background-color: rgb(255, 255, 255);
+            width: 54%;
+            border-radius: 0.5em;
+            z-index: 1;
+            padding: 10px;
+            text-align: right;
+            background: linear-gradient(to right, rgba(0, 0, 0, 0), #E6E6E6);
+            *@;
+        }
+
+        .resume-unstack-submit {
+            background-color: rgb(255, 255, 255);
+            width: 100%;
+            border-radius: 0.5em;
+            z-index: 1;
+            padding: 10px;
+            background: linear-gradient(to right, rgba(0, 0, 0, 0), #E6E6E6);
+        }
+
+        .nav-stacked > li > a {
+            color: rgb(111, 95, 90);
+            padding: 5px 3px;
+        }
+
+        .panel > a:hover, .panel > a:focus {
+            text-decoration: none;
+        }
+
+
+        .panel > a {
+            color: White;
+        }
+
+
+        legend {
+            color: white;
+            font-size: 20px;
+            background-color: #1c9a48;
+            padding: 15px;
+            border: 0;
+            font-family: "QuireSansW04-ExtraLight";
+            padding: 15px;
+            font-size: 23px;
+        }
+
+
+        h4 {
+            color: rgb(152,207,22);
+        }
+
+        hr {
+            display: block;
+            height: 1px;
+            border: 0;
+            border-top: 1px solid rgb(152,207,22);
+            margin: 1em 0;
+            padding: 0;
+        }
+
+        .wrapper {
+            min-width: 500px;
+            padding: 0 15px;
+        }
+
+        .navigation {
+            position: fixed;
+        }
+
+        .content {
+        }
+
+        panel-group .panel {
+            margin-bottom: 0;
+            /* border-radius: 4px; */
+            border: none;
+        }
+
+        .resume-panel-heading {
+            color: white;
+            padding: 15px;
+            /* border-top-left-radius: 5px; */
+            /* border-top-right-radius: 5px; */
+            margin-bottom: 0;
+            font-size: 20px;
+            font-family: "QuireSansW04-ExtraLight";
+            font-size: 23px;
+        }
+
+        .collapse-nav > .resume-panel-heading {
+            background: #82c556;
+        }
+
+        .collapsed > .resume-panel-heading {
+            background: #e5f3db;
+            color: #89c85f;
+        }
+
+        .panel {
+            border: none;
+        }
+
+        .none {
+            padding: 0;
+            margin 0;
+        }
+
+    
+    </style>
+}
+
+
+    <div class="col-sm-12 none">
+        <div class="none ">
+            @Html.Action("SupplierNavigator", "Suppliers")
+        </div>
+        @* <div class="col-sm-3"><br clear="both" /></div>*@
+        <div class="col-sm-8 none main-wide">
+            <div id="divResumeData">
+          
+                                    <div class="row">
+                                        <div class="col-lg-12">
+
+                                            <div class="form-group">
+                                               
+                                                <label class="col-lg-4" style="text-align:right; font-weight:normal;">Supplier Id:</label>
+                                                @Html.TextBoxFor(model => model.Id, new { @class = "form-control", @style = "width:350px", @readonly = "readonly" })
+                                            </div>
+                                            <div class="form-group">
+                                                <label class="col-lg-4" style="text-align:right; font-weight:normal;">Supplier Name:</label>
+                                                @Html.TextBoxFor(model => model.SupplierName, new { @class = "form-control", @style = "width:350px", @readonly = "readonly" })
+                                            </div>
+                                            <div class="form-group">
+                                                <label class="col-lg-4" style="text-align:right; font-weight:normal;">Supplier Address:</label>
+                                                @Html.TextBoxFor(model => model.Address, new { @class = "form-control", @style = "width:350px", @readonly = "readonly" })
+                                            </div>
+                                            <div class="form-group">
+                                                <label class="col-lg-4" style="text-align:right; font-weight:normal;">Supplier Contact:</label>
+                                                @Html.TextBoxFor(model => model.Contact, new { @class = "form-control", @style = "width:350px", @readonly = "readonly" })
+                                            </div>
+                                            <div class="form-group">
+                                                <label class="col-lg-4" style="text-align:right; font-weight:normal;">Supplier Email:</label>
+                                                @Html.TextBoxFor(model => model.Email, new { @class = "form-control", @style = "width:350px", @readonly = "readonly" })
+                                            </div>
+                                            <div class="form-group">
+                                                <label class="col-lg-4" style="text-align:right; font-weight:normal;">Supplier EWT:</label>
+                                                @Html.TextBoxFor(model => model.EWTId, new { @class = "form-control", @style = "width:350px", @readonly = "readonly" })
+                                            </div>
+                                            <div class="form-group">
+                                                <label class="col-lg-4" style="text-align:right; font-weight:normal;">Supplier VAT:</label>
+                                                @Html.TextBoxFor(model => model.VATtypeId, new { @class = "form-control", @style = "width:350px", @readonly = "readonly" })
+                                            </div>
+                                            <div class="form-group">
+                                                <label class="col-lg-4" style="text-align:right; font-weight:normal;">Payment Term:</label>
+                                                @Html.TextBoxFor(model => model.Terms, new { @class = "form-control", @style = "width:350px", @readonly = "readonly" })
+                                            </div>
+
+                                            <div class="form-group">
+                                                <label class="col-lg-4" style="text-align:right; font-weight:normal;">Payment Term:</label>
+                                                @Html.TextBoxFor(model => model.Terms, new { @class = "form-control", @style = "width:350px", @readonly = "readonly" })
+                                            </div>
+                                            <div class="form-group">
+                                                <label class="col-lg-4" style="text-align:right; font-weight:normal;">Tax Code:</label>
+                                                @Html.TextBoxFor(model => model.Taxcode, new { @class = "form-control", @style = "width:350px", @readonly = "readonly" })
+                                            </div>
+                                            <div class="form-group">
+                                                <label class="col-lg-4" style="text-align:right; font-weight:normal;">Payment Term:</label>
+                                                @Html.TextBoxFor(model => model.Terms, new { @class = "form-control", @style = "width:350px", @readonly = "readonly" })
+                                            </div>
+                                            <div class="form-group">
+                                                <label class="col-lg-4" style="text-align:right; font-weight:normal;">Supplier Status:</label>
+                                                @Html.TextBoxFor(model => model.Status, new { @class = "form-control", @style = "width:350px", @readonly = "readonly" })
+                                            </div>
+                                            <div class="form-group">
+                                                <label class="col-lg-4" style="text-align:right; font-weight:normal;">Created By:</label>
+                                                @Html.TextBoxFor(model => model.Recuser, new { @class = "form-control", @style = "width:350px", @readonly = "readonly" })
+                                            </div>
+                                            <div class="form-group">
+                                                <label class="col-lg-4" style="text-align:right; font-weight:normal;">Created Date:</label>
+                                                @Html.TextBoxFor(model => model.Recdate, new { @class = "form-control", @style = "width:350px", @readonly = "readonly" })
+                                            </div>
+                                            <div class="form-group">
+                                                <label class="col-lg-4" style="text-align:right; font-weight:normal;">Modified By:</label>
+                                                @Html.TextBoxFor(model => model.Moduser, new { @class = "form-control", @style = "width:350px", @readonly = "readonly" })
+                                            </div>
+                                            <div class="form-group">
+                                                <label class="col-lg-4" style="text-align:right; font-weight:normal;">Date Modified:</label>
+                                                @Html.TextBoxFor(model => model.ModDate, new { @class = "form-control", @style = "width:350px", @readonly = "readonly" })
+                                            </div>
+
+                                        </div>
+                                        <!-- /.col-lg-12 (nested) -->
+                                    </div>
+                                    <!-- /.row (nested) -->
+
+        </div>
+
+            <div class="form-group">
+                @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-default" })
+            </div>
+    </div>
+@Html.Action("SupplierScripts", "Suppliers")
+ 
